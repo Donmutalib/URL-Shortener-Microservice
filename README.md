@@ -1,11 +1,12 @@
-# URL-Shortener-Microservice
-A URL shortener ensures that you get the right messages out to your audience without taking up too much space in your social posts. 
+# urlShortener
+A URL shortener ensures you get the right messages out to your audience without taking up too much space in your social posts. 
 
 ## Motivation
 
 ### Goal
 
 ⚙️ Installation
+
 Clone the repo by running git clone git@github.com:backendkolawole/URL-Shortener-Microservice.git in terminal
 
 Create a .env file and set up the PORT variable
