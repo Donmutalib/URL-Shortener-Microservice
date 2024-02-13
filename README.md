@@ -1,5 +1,5 @@
 # node-urlShortener
-`node-urlShortener` is a URL shortener that ensures you get the right messages out to your audience without taking up too much space in your social posts. 
+`node-urlShortener` is a URL Shortener Microservice that ensures you get the right messages out to your audience without taking up too much space in your social posts. 
 
 ## Motivation
 `node-urlShortener` ensures you get the right messages out to your audience without taking up too much space in your social posts. 
